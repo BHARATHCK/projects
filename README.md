@@ -3,7 +3,7 @@
     "projects": [
         {
           "title":  "HEARKEN PLAY",
-          "description": "This project is an addon web-app for a spotify user to know about their listening habits and find new songs and playlists that they might like.",
+          "description": "This project is an addon web-app for a spotify user to know about their listening habits and find new songs and playlists that they might like.This project is an addon web-app for a spotify user to know about their listening habits and find new songs and playlists that they might like.This project is an addon web-app for a spotify user to know about their listening habits and find new songs and playlists that they might like.This project is an addon web-app for a spotify user to know about their listening habits and find new songs and playlists that they might like.",
           "url": "https://explay.now.sh/",
           "git": "https://github.com/bharathck/private-gyse/"
         },
