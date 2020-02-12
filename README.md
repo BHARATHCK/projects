@@ -15,7 +15,7 @@
         },
                 {
           "title":  "ETCH-A-SKETCH",
-          "description": "Sketch book to learn all about canvas",
+          "description": "Sketch book in a browser window built with intention to learn all about canvas",
           "url": "",
           "git": ""
         }
